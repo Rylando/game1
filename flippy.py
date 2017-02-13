@@ -2,7 +2,7 @@
 # By Al Sweigart al@inventwithpython.com
 # http://inventwithpython.com/pygame
 # Released under a "Simplified BSD" license
-
+# hi its Rylando editing this boi kevins game and i think its pretty dope but it needs some work and that is why im here
 # Based on the "reversi.py" code that originally appeared in "Invent
 # Your Own Computer Games with Python", chapter 15:
 #   http://inventwithpython.com/chapter15.html
